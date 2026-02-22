@@ -1,0 +1,42 @@
+[
+  {
+    "cert_name": "FSC",
+    "full_name": "Forest Stewardship Council",
+    "authority_type": "Global NGO",
+    "verification_method": "registry_lookup",
+    "authority_weight": 0.92,
+    "credibility_level": "High"
+  },
+  {
+    "cert_name": "ISO 14001",
+    "full_name": "Environmental Management Systems",
+    "authority_type": "International Standard",
+    "verification_method": "certificate_document",
+    "authority_weight": 0.88,
+    "credibility_level": "High"
+  },
+  {
+    "cert_name": "CarbonNeutral",
+    "full_name": "CarbonNeutral Certification",
+    "authority_type": "Private Standard",
+    "verification_method": "registry_lookup",
+    "authority_weight": 0.85,
+    "credibility_level": "Moderate"
+  },
+  {
+    "cert_name": "B Corp",
+    "full_name": "B Corporation Certification",
+    "authority_type": "Non-profit",
+    "verification_method": "registry_lookup",
+    "authority_weight": 0.80,
+    "credibility_level": "Moderate"
+  },
+  {
+    "cert_name": "GOTS",
+    "full_name": "Global Organic Textile Standard",
+    "authority_type": "International Standard",
+    "verification_method": "registry_lookup",
+    "authority_weight": 0.90,
+    "credibility_level": "High"
+  }
+]
